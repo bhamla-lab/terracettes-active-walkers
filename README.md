@@ -9,7 +9,7 @@ add gif here
 
 
 Contents:
-* **Section 1 —
+* **Section 1 —**
 * **Stored_Functions:** ETC
 
 Features:
@@ -30,7 +30,7 @@ This work is available on **arXiv** (preprint).
 
 If you use this work in an academic context, please cite the following publication:
 
-> **B. Seleb, A. Chatterjee, and S. Bhamla,  
+> **B. Seleb, A. Chatterjee, and S. Bhamla**  
 > *"Moving mountains: grazing agents drive terracette formation on steep hillslopes"*,  
 > [arXiv:2504.17496](https://arxiv.org/abs/2504.17496), 2025.
 
