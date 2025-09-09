@@ -16,6 +16,16 @@ Contents:
   <img src="/animated_erosion.gif" alt="Demo" width="60%" height="60%">
 </p>
 
+```
+{
+terracettes-active-walkers/
+├─ README.md
+├─ data/
+├─ src/                       # your reusable code lives here
+├─ notebooks/
+}
+```
+
 ## Publications
 
 This work is available on **arXiv** (preprint).
