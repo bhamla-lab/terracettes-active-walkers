@@ -17,13 +17,11 @@ Contents:
 </p>
 
 ```
-{
 terracettes-active-walkers/
 ├─ README.md
 ├─ data/
 ├─ src/                       # your reusable code lives here
 ├─ notebooks/
-}
 ```
 
 ## Publications
