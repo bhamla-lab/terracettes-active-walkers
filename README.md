@@ -2,7 +2,10 @@
 
 ## Overview
 
-This repository contains Python code to simulate and analyze...
+During a field trip to the Swiss Alps last year, we observed dramatic, step-like landforms on steep hillslopes, which we later identified as terracettes (see attached photo). Upon further investigation, we discovered that the origin of terracettes has been debated among scientists for over a century. One hypothesis attributes their formation to geophysical mass-wasting processes; the other, more controversial, suggests they arise from the repeated trampling of grazing animals. A long-standing objection to the latter hypothesis is that animal movement is too irregular to produce such ordered patterns. Yet no prior model has successfully linked local foraging behavior to the emergence of landscape-scale structure.
+
+To address this, we developed a computational model in which grazing animals are represented as active random agents moving across an erodible slope. Each agent evaluates an energetic tradeoff between locomotion effort and forage reward, with each footstep compacting the soil and depleting local vegetation. These landscape modifications influence future movement through stigmergic interaction. As agents are biased to favor easier paths, their traffic concentrates into cross-slope trails. Over time, these trails self-organize into periodic bands that closely resemble terracettes in both form and spacing.
+
 
 
 Contents:
