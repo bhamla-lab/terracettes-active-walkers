@@ -253,12 +253,12 @@ def fingerprint(erosion, omega, ground_truth=None, plot=False):
         plt.quiver(X_downsampled, Y_downsampled, coherence*np.cos(theta), coherence*np.sin(theta), color='k', scale=40, headaxislength=0, headlength=0, pivot='mid')
         plt.show()
 
-        # Plot coherence field 
-        # plt.figure(figsize=(10, 10))
-        # plt.imshow(coherence, origin='lower', vmin=0, vmax=1, cmap='grey')
-        # plt.title(f'Mean Coherence: {mean_coherence}')
-        # plt.colorbar(label='Anisotropic Coherence')
-        # plt.show()
+        #Plot coherence field 
+        plt.figure(figsize=(10, 10))
+        plt.imshow(coherence, origin='lower', vmin=0, vmax=1, cmap='bone_r')
+        plt.title(f'Mean Coherence: {mean_coherence}')
+        plt.colorbar(label='Anisotropic Coherence')
+        plt.show()
 
     if isinstance(ground_truth, np.ndarray):
         # Assuming orientation_field and ground_truth are in radians and within the range [0, π]
