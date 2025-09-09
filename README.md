@@ -12,17 +12,9 @@ Contents:
 * **Section 1 —**
 * **Stored_Functions:** ETC
 
-Features:
-* **Hybrid SLIP-Load Model:** Planar quadrupedal SLIP model with load coupling via a unilateral spring (tugline).
-
-The source code is released under a [BSD 3-Clause license](LICENSE).
-
-**Authors:** Benjamin Seleb*, Atanu Chatterjee†, Saad Bhamla†
-**Affiliations:**
-*Interdisciplinary Graduate Program in Quantitative Biosciences, Georgia Institute of Technology, USA
-†School of Chemical and Biomolecular Engineering, Georgia Institute of Technology, USA
-
-add fig here? 
+<p align="center">
+  <img src="/animated_erosion.gif" alt="Demo" width="100%" height="100%">
+</p>
 
 ## Publications
 
