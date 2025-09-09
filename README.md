@@ -13,7 +13,7 @@ Contents:
 * **Stored_Functions:** ETC
 
 <p align="center">
-  <img src="/animated_erosion.gif" alt="Demo" width="100%" height="100%">
+  <img src="/animated_erosion.gif" alt="Demo" width="60%" height="60%">
 </p>
 
 ## Publications
