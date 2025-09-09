@@ -5,16 +5,7 @@
 This repository contains Python code to simulate and analyze...
 
 
-add gif here
-
-
 Contents:
-* **Section 1 —**
-* **Stored_Functions:** ETC
-
-<p align="center">
-  <img src="/animated_erosion.gif" alt="Demo" width="60%" height="60%">
-</p>
 
 ```
 terracettes-active-walkers/
@@ -23,6 +14,11 @@ terracettes-active-walkers/
 ├─ src/                       # your reusable code lives here
 ├─ notebooks/
 ```
+
+<p align="center">
+  <img src="/animated_erosion.gif" alt="Demo" width="60%" height="60%">
+</p>
+
 
 ## Publications
 
