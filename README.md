@@ -21,7 +21,7 @@ Repository Contents:
 terracettes-active-walkers/
 ├─ README.md
 ├─ data/
-├─ src/                       # your reusable code lives here
+├─ src/                       
 ├─ notebooks/
 ```
 
