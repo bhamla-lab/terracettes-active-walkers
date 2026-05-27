@@ -1,4 +1,4 @@
-# Moving mountains: grazing agents drive terracette formation on steep hillslopes
+# Moo-ving Mountains: simulation code and data
 
 ## Overview
 
